@@ -1,1 +1,1 @@
-# Scratch_feladat
+Programozási nyelvek 1 tárgyhoz készült scratch projekt. Az egyszerű focis játékban az egér segítségével irányíthatjuk az egyik játékost, klasszikus faltenisz stílusban. Ellenfele véletlenszerűen mozog. Az győz, aki hamarabb szerez 5 gólt.
